@@ -29,7 +29,7 @@ This project implements a simple farmer ordering system where farmers can order 
 
 ## Running the Application
 
-1. Clone the repository from [GitHub Repo](https://github.com/yourusername/farmer-ordering-system).
+1. Clone the repository from [GitHub Repo](https://github.com/yourusername/FarmerOrderingSystemFrontend.
 2. Navigate to the project directory.
 3. Install dependencies using `npm install`.
 4. Set up the environment variables such as database connection details and server port in a `.env` file (for backend).
